@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Wyatt]!
 
 Welcome to my GitHub profile! I'm passionate about building scalable systems, creating efficient solutions, and crafting engaging web experiences. Here's a bit about me:
 
