@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Wyatt]!
+# 👋 Hi, I'm Wyatt! (15M)
 
 Welcome to my GitHub profile! I'm passionate about building scalable systems, creating efficient solutions, and crafting engaging web experiences. Here's a bit about me:
 
