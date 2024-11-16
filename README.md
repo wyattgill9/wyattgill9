@@ -1,9 +1,10 @@
-👋 Hi, I'm Wyatt! (15M)
+# 👋 Hi, I'm Wyatt! (15M)
 
-**Welcome to my GitHub profile! I'm passionate about Tech Archetecture, 
-building scalable systems, optimizing problems and helping out with community projects,**
 ---
-
+## Intrests
+ - ** System design and Tech optimizations
+ - ** Linux (NixOS)
+ - ** Finding beutiful solutions to hard problems.
 ## 💻 About Me
 - 🔭 I’m currently working on **[Mediasured] (Private REPO)**.
 - 🌱 I’m exploring the latest in **Web3, AR, and distributed systems**.
