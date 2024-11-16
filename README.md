@@ -1,7 +1,7 @@
 👋 Hi, I'm Wyatt! (15M)
 
-Welcome to my GitHub profile! I'm passionate about Tech Archetecture, 
-building scalable systems, optimizing problems and helping out with community projects,
+**Welcome to my GitHub profile! I'm passionate about Tech Archetecture, 
+building scalable systems, optimizing problems and helping out with community projects,**
 ---
 
 ## 💻 About Me
