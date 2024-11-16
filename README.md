@@ -27,6 +27,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable systems, cr
   - Microservices Development
   - Scalable Web Applications
  ---
- [![GitHub Streak](https://streak-stats.demolab.com/?user=wyattgill09)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=wyattgill9&theme=dark)](https://git.io/streak-stats)
 
 
