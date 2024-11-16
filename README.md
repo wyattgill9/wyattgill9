@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable systems, cr
 - 🔭 I’m currently working on **[Mediasured] (Private REPO)**.
 - 🌱 I’m exploring the latest in **Web3, AR, and distributed systems**.
 - 💬 Ask me about **Rust, TypeScript, web development, system design, and architecture**.
-- 📫 How to reach me: **[wyattgill2009@gmail.com](mailto:your-email@example.com)**.
-- ⚡ Fun fact: I love Programming, its a TRUE passion of mine.
+- 📫 How to reach me: **[gmail](mailto:your-email@example.com)**.
+
 
 ---
 
@@ -29,4 +29,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable systems, cr
  ---
  [![GitHub Streak](https://streak-stats.demolab.com?user=wyattgill9&theme=dark)](https://git.io/streak-stats)
 
-
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/wyattgill9/github-readme-stats)
+ 
+ 
