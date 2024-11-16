@@ -29,6 +29,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable systems, cr
  ---
  [![GitHub Streak](https://streak-stats.demolab.com?user=wyattgill9&theme=dark)](https://git.io/streak-stats)
 
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/wyattgill9/github-readme-stats)
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=wyattgill9)](https://github.com/anuraghazra/github-readme-stats)
  
  
