@@ -2,9 +2,9 @@
 
 ---
 ## Intrests
- - ** System design and Tech optimizations.**
- - ** Linux (NixOS)**
- - ** Finding beutiful solutions to hard problems.**
+ - System design and Tech optimizations.
+ - Linux (NixOS)
+ - Finding beutiful solutions to hard problems.
 ## 💻 About Me
 - 🔭 I’m currently working on **[Mediasured] (Private REPO)**.
 - 🌱 I’m exploring the latest in **Web3, AR, and distributed systems**.
