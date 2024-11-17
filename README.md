@@ -9,7 +9,9 @@
 - 🔭 I’m currently working on **[Mediasured] (Private REPO)**.
 - 🌱 I’m exploring the latest in **Web3, AR, and distributed systems**.
 - 💬 Ask me about **Rust, TypeScript, web development, system design, and architecture**.
-- 📫 How to reach me: **[gmail](mailto:your-email@example.com)**.
+- 📫 How to reach me:
+   - **[Gmail](mailto:wyattgill2009@gmail.com.com)**,
+   - **Discord: raiinyzen**,
 
 
 ---
