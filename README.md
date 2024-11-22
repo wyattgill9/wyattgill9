@@ -1,4 +1,4 @@
-My name is **Wyatt Gill**<!-- the bold part is the origin of my ID -->. I'm a freshmen in highschool who is intrested alot of difrent technologies. 
+My name is **Wyatt Gill**<!-- the bold part is the origin of my ID -->. I'm a freshmen in highschool who is intrested in low-level programming, microservices and optimization. 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=wyattgill9&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-wyattgill9.vercel.app/api?username=wyattgill9&show_icons=true">
