@@ -1,37 +1,106 @@
-# 👋 Hi, I'm Wyatt! (15M)
+My name is **Wyatt Gill**<!-- the bold part is the origin of my ID -->. I'm a freshment in highschool who is intrested alot of difrent technologies. 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=wyattgill9&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-wyattgill9.vercel.app/api?username=wyattgill9&show_icons=true">
+</picture>
 
----
-## Intrests
- - System design and Tech optimizations.
- - Linux (NixOS)
- - Finding beautiful solutions to complex problems.
-## 💻 About Me
-- 🔭 I’m currently working on **[Mediasured] (Private REPO)**.
-- 🌱 I’m exploring the latest in **Web3, AR, and distributed systems**.
-- 💬 Ask me about **Rust, TypeScript, web development, system design, and architecture**.
-- 📫 How to reach me:
-   - **[Gmail](mailto:wyattgill2009@gmail.com.com)**,
-   - **Discord: raiinyzen**,
-
+-   :pencil2: Rust / TypeScript / React / Python / Zig
+-   :package: [Nix OS](https://nixos.org/) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
+-   :seedling: Working on fun personal projects!
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new/choose)!
+-   :star: [Projects starred by me](AWESOME-STARS.md)
+-   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
 
 ---
 
-## 🚀 My Skills
-- **Programming Languages:** 
-  - ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-  - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Frameworks and Tools:**
-  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- **Expertise:**
-  - System Design & Architecture
-  - Microservices Development
-  - Scalable Web Applications
- ---
- [![GitHub Streak](https://streak-stats.demolab.com?user=wyattgill9&theme=dark)](https://git.io/streak-stats)
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=wyattgill9)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jsonnet
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">Coding Activity</h2>
+
+> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+```
+  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.4 hr  ┤│                                                                                                   
+  2204.4 hr  ┼╯                                                                                                   
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
+<!-- links -->
+
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
+[blog]: https://jacobcolvin.com/posts/ "My Blog"
