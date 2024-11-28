@@ -76,7 +76,3 @@ Feel free to explore my repositories, leave a star ⭐, or reach out if you're i
 
 ---
 
-### 💡 _"There are only two kinds of programming languages: the ones people complain about and the ones nobody uses."_ — Bjarne Stroustrup
-
----
-
