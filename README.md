@@ -19,7 +19,7 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID -->. I'm a fr
   <tr>
     <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
       </a>
       <br>Rust
     </td>
@@ -55,7 +55,7 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID -->. I'm a fr
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Zig_logo.svg" width="48" height="48" alt="Zig" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" width="48" height="48" alt="Zig" />
       </a>
       <br>Zig
     </td>
