@@ -5,7 +5,7 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID -->. I'm a fr
 </picture>
 
 -   :pencil2: Rust / TypeScript / React / Python / Zig
--   :package: [Nix OS](https://nixos.org/) / [hyprland](https://hyprland.org/) / [neovim](https://neovim.io/) / [Firefox (Dev)](https://www.mozilla.org/en-US/firefox/developer/) / [Discord](https://discord.com/)
+-   📂: [Dotfiles](https://nixos.org/)
 -   :seedling: Working on fun personal projects!
 -   :star: [Current Project (Rafka)](https://github.com/LYZJU2019/rafka)
 
