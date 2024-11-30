@@ -5,7 +5,7 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID -->. I'm a fr
 </picture>
 
 -   :pencil2: Rust / TypeScript / React / Python / Zig
--   📂: [Dotfiles](https://nixos.org/)
+-   📂: [Dotfiles](https://github.com/wyattgill9/dotfiles)
 -   :seedling: Working on fun personal projects!
 -   :star: [Current Project (Rafka)](https://github.com/LYZJU2019/rafka)
 
