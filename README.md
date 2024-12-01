@@ -63,7 +63,7 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
   </tr>
 </table>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&hide=Makefile,CSS&layout=compact&theme=tokyonight)
 
 ---
 
@@ -76,4 +76,5 @@ Feel free to explore my repositories, leave a star ⭐, or reach out if you're i
 🐦 Discord: raiinyzen
 
 ---
+
 
