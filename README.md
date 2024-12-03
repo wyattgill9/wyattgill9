@@ -65,7 +65,7 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&hide=Makefile,CSS&layout=compact&theme=tokyonight" width="37%" />
-<!--   <img src="https://streak-stats.demolab.com/?user=wyattgill9&theme=tokyonight" width="42%" /> -->
+  <img src="https://streak-stats.demolab.com/?user=wyattgill9&theme=tokyonight" width="51%" />
 </p>
 ---
 
