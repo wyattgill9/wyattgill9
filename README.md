@@ -63,8 +63,10 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
   </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&hide=Makefile,CSS&layout=compact&theme=tokyonight)
-
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&hide=Makefile,CSS&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=wyattgill9&theme=tokyonight" width="51%" />
+</p>
 ---
 
 👨‍💻 **Let's Connect**  
