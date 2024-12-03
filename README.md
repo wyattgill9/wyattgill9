@@ -8,7 +8,7 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
 -   :pencil2: Rust / TypeScript / React / Python / Zig
 -   📂: [Dotfiles](https://github.com/wyattgill9/dotfiles)
 -   :seedling: Working on fun personal projects!
--   :star: Current Project [(Rafka)](https://github.com/LYZJU2019/rafka)
+-   :star: Current Project [(Rafka)](https://github.com/wyattgill9/rafka-test)
 
 ---
 
