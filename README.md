@@ -5,7 +5,7 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
     <img align="right" width="50%" src="https://github-readme-stats-wyattgill9.vercel.app/api?username=wyattgill9&show_icons=true">
 </picture>
 
--   :pencil2: Rust / TypeScript / React / Python / Zig
+-   :pencil2: Rust / TypeScript / React / Python / Java 
 -   📂: [Dotfiles](https://github.com/wyattgill9/dotfiles)
 -   :seedling: Working on fun personal projects!
 -   :star: Current Project [(Rafka)](https://github.com/wyattgill9/rafka-test)
@@ -56,15 +56,15 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" width="48" height="48" alt="Zig" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Zig
+      <br>Scala
     </td>
   </tr>
 </table>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&hide=Makefile,CSS&layout=compact&theme=tokyonight&exclude_repo=sleeply" width="37%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&hide=Makefile,CSS&layout=compact&theme=tokyonight" width="37%" />
   <img src="https://streak-stats.demolab.com/?user=wyattgill9&theme=tokyonight" width="51%" />
 </p>
 ---
