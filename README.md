@@ -60,6 +60,12 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
       </a>
       <br>Scala
     </td>
+    <td align="center" width="96">
+      <a href="#favorite-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+      </a>
+      <br>Go
+    </td>
   </tr>
 </table>
 
