@@ -78,10 +78,10 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
 👨‍💻 **Let's Connect**  
 Feel free to explore my repositories, leave a star ⭐, or reach out if you're interested in collaborating!  
 
-📧 [Email Me](wyattgill2009@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/wyatt-gill-17380b323/)  
-🌐 [Portfolio Website](https://portfolio-website-9asx-wyatt-gills-projects.vercel.app/)  
-🐦 Discord: raiinyzen
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wyatt-gill-17380b323/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-website-9asx-wyatt-gills-projects.vercel.app/)
+[![Discord](https://img.shields.io/badge/-raiinyzen-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:wyattgill2009@gmail.com)
 
 ---
 
