@@ -55,13 +55,6 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
     </td>
   </tr>
 
-
----
-<img src="https://streak-stats.demolab.com?user=wyattgill9&theme=tokyonight" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&hide=Makefile,CSS&layout=compact&theme=tokyonight" width="37%" />
-
-
 ---
 
 👨‍💻 **Let's Connect**  
