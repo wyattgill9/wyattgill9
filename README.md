@@ -5,7 +5,6 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
     <img align="right" width="50%" src="https://github-readme-stats-wyattgill9.vercel.app/api?username=wyattgill9&show_icons=true">
 </picture>
 
--   :pencil2: Rust / TypeScript / React / Python / Java 
 -   📂: [Dotfiles](https://github.com/wyattgill9/dotfiles)
 -   :seedling: Working on fun personal projects!
 -   :star: Current Project [(Rafka)](https://github.com/wyattgill9/rafka-test)
