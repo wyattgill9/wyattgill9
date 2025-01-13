@@ -6,7 +6,6 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
 </picture>
 
 -   📂: [Dotfiles](https://github.com/wyattgill9/dotfiles)
--   :seedling: Working on fun personal projects!
 -   :star: Current Project [(Rafka)](https://github.com/wyattgill9/rafka-test)
 
 ---
@@ -16,12 +15,9 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
 > Tools, languages, and other things that I like to work with.
 > 
 
-<table>
+
   <tr>
-    <td align="left" width="37%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&hide=Makefile,CSS&layout=compact&theme=tokyonight" width="100%" />
-    </td>
-    <td>
+    <td align="center">
       <table>
         <tr>
           <td align="center" width="96">
@@ -58,7 +54,13 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
       </table>
     </td>
   </tr>
-</table>
+
+
+---
+<img src="https://streak-stats.demolab.com?user=wyattgill9&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&hide=Makefile,CSS&layout=compact&theme=tokyonight" width="37%" />
+
 
 ---
 
