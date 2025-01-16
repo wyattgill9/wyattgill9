@@ -1,72 +1,50 @@
-My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a highschool student who is interested in low-level programming and DevOps.
+# **Wyatt Gill**
+High school student passionate about low-level programming and DevOps.
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=wyattgill9&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-wyattgill9.vercel.app/api?username=wyattgill9&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=wyattgill9&theme=tokyonight&show_icons=true&hide_border=true">
+    <img align="right" width="50%" src="https://github-readme-stats-wyattgill9.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
 </picture>
 
--   📂: [Dotfiles](https://github.com/wyattgill9/dotfiles)
--   :star: Current Project [(Rafka)](https://github.com/wyattgill9/IMAP)
+- 📂 [Dotfiles](https://github.com/wyattgill9/dotfiles)
+- ⭐ Current Project: [Rafka](https://github.com/wyattgill9/IMAP)
 
 ---
 
-<h2 align="left" id="favorite-tech">Favorite Tech</h2>
+## Favorite Tech
+Tools, languages, and other things that I like to work with.
 
-> Tools, languages, and other things that I like to work with.
-> 
-
-
+<table>
   <tr>
-    <td align="center">
-      <table>
-        <tr>
-          <td align="center" width="96">
-            <a href="#favorite-tech">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
-            </a>
-            <br>Rust
-          </td>
-          <td align="center" width="96">
-            <a href="#favorite-tech">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-            </a>
-            <br>Python
-          </td>
-          <td align="center" width="96">
-            <a href="#favorite-tech">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-            </a>
-            <br>TypeScript
-          </td>
-          <td align="center" width="96">
-            <a href="#favorite-tech">
-              <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-            </a>
-            <br>Kubernetes
-          </td>
-          <td align="center" width="96">
-            <a href="#favorite-tech">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-            </a>
-            <br>Java
-          </td>
-        </tr>
-      </table>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
     </td>
   </tr>
----
-<!-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&langs_count=8">
-    <img align="right" width="20%" src="https://github.com/wyattgill9/github-readme-stats">
-</picture> -->
+</table>
+
 ---
 
-👨‍💻 **Let's Connect**  
-Feel free to explore my repositories, leave a star ⭐, or reach out if you're interested in collaborating!  
+### Let's Connect
+Feel free to explore my repositories, leave a star ⭐, or reach out if you're interested in collaborating!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wyatt-gill-17380b323/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-website-9asx-wyatt-gills-projects.vercel.app/)
 [![Discord](https://img.shields.io/badge/-raiinyzen-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:wyattgill2009@gmail.com)
-
----
