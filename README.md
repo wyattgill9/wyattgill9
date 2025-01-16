@@ -54,7 +54,11 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
       </table>
     </td>
   </tr>
-
+---
+<!-- <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&langs_count=8">
+    <img align="right" width="20%" src="https://github.com/wyattgill9/github-readme-stats">
+</picture> -->
 ---
 
 👨‍💻 **Let's Connect**  
