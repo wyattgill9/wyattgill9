@@ -6,7 +6,7 @@ My name is **Wyatt Gill**<!-- the bold part is the origin of my ID --> and I'm a
 </picture>
 
 -   📂: [Dotfiles](https://github.com/wyattgill9/dotfiles)
--   :star: Current Project [(Rafka)](https://github.com/wyattgill9/rafka-test)
+-   :star: Current Project [(Rafka)](https://github.com/wyattgill9/IMAP)
 
 ---
 
