@@ -7,7 +7,7 @@ High school student passionate about low-level programming and DevOps.
 </picture>
 
 - 📂 [Dotfiles](https://github.com/wyattgill9/dotfiles)
-- ⭐ Current Project: [IMAP](https://github.com/wyattgill9/IMAP)/[Rafka](https://github.com/wyattgill9/Rafka)
+- ⭐ Current Project: [Hydrogen](https://github.com/wyattgill9/hydrogen)/[IMAP](https://github.com/wyattgill9/IMAP)
 
 ---
 
