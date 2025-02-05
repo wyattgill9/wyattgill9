@@ -6,7 +6,7 @@ High school student passionate about low-level programming and DevOps.
     <img align="right" width="50%" src="https://github-readme-stats-wyattgill9.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
 </picture>
 
-- 📂 [Dotfiles](https://github.com/wyattgill9/dotfiles)
+- 📂 [Dotfiles](https://github.com/wyattgill9/dotfiles
 - ⭐ Current Project: [LA + ML](https://github.com/wyattgill9/linear_algebra_ml))
 
 ---
