@@ -1,5 +1,5 @@
 # **Wyatt Gill**
-High school student passionate about low-level programming and DevOps.
+[15 yr] High school student passionate about low-level programming and DevOps.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=wyattgill9&theme=tokyonight&show_icons=true&hide_border=true">
