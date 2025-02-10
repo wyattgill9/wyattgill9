@@ -1,10 +1,12 @@
 # **Wyatt Gill**
 [15 yr] High school student passionate about low-level programming and DevOps.
 
+
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=wyattgill9&theme=tokyonight&show_icons=true&hide_border=true">
-    <img align="right" width="50%" src="https://github-readme-stats-wyattgill9.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
+    <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
 </picture>
+
 
 - 📂 [Dotfiles](https://github.com/wyattgill9/dotfiles)
 - ⭐ Current Project: [FPS CHAT](https://github.com/wyattgill9/fps_chat)
