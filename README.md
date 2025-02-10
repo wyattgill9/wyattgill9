@@ -1,20 +1,22 @@
-# **Wyatt Gill**
-[15 yr] High school student passionate about low-level programming and DevOps.
-
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
-    <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
-</picture>
-
-
-- 📂 [Dotfiles](https://github.com/wyattgill9/dotfiles)
-- ⭐ Current Project: [FPS CHAT](https://github.com/wyattgill9/fps_chat)
+# 🚀 Wyatt Gill
+💡 15-year-old high school student passionate about **low-level programming**, **DevOps**, and **distributed systems**.
 
 ---
 
-## Favorite Tech
-Tools, languages, and other things that I like to work with.
+## 🔥 Stats & Activity
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
+</picture>
+
+- 📂 **[Dotfiles](https://github.com/wyattgill9/dotfiles)**
+- ⭐ **Current Project:** [FPS Chat](https://github.com/wyattgill9/fps_chat)
+- ⚡ **Interests:** **High-performance computing, networking, and compilers**
+
+---
+
+## 🛠️ Favorite Tech
+Tools, languages, and technologies I love working with.
 
 <table>
   <tr>
@@ -23,8 +25,8 @@ Tools, languages, and other things that I like to work with.
       <br>Rust
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
+      <br>Go
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
@@ -35,16 +37,16 @@ Tools, languages, and other things that I like to work with.
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br>Java
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
     </td>
   </tr>
 </table>
 
 ---
 
-### Let's Connect
-Feel free to explore my repositories, leave a star ⭐, or reach out if you're interested in collaborating!
+## 🌎 Connect With Me
+Feel free to check out my projects, leave a ⭐, or reach out if you're interested in collaborating!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/wyatt-gill-17380b323/">
