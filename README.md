@@ -6,7 +6,7 @@
 ## 🔥 Stats & Activity
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
+    <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
 </picture>
 
 - 📂 **[Dotfiles](https://github.com/wyattgill9/dotfiles)**
