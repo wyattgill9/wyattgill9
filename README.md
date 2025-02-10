@@ -7,7 +7,7 @@
 </picture>
 
 - 📂 [Dotfiles](https://github.com/wyattgill9/dotfiles)
-- ⭐ Current Project: [LA + ML](https://github.com/wyattgill9/linear_algebra_ml)
+- ⭐ Current Project: [FPS CHAT](https://github.com/wyattgill9/fps_chat)
 
 ---
 
