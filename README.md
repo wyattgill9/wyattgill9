@@ -10,7 +10,7 @@
 
 ## 🔥 Stats & Activity
 
-- 📂 **[Dotfiles](https://github.com/wyattgill9/dotfiles)**
+- 📂 **[Dotfiles](https://github.com/wyattgill9/dotfiles)** (Arch btw)
 - ⭐ **Current Project:** [FPS Chat](https://github.com/wyattgill9/fps_chat)
 - ⚡ **Interests:** **High-performance computing, networking, and compilers**
 
