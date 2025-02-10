@@ -6,14 +6,13 @@
 ## 🔥 Stats & Activity
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
 </picture>
 
 - 📂 **[Dotfiles](https://github.com/wyattgill9/dotfiles)**
 - ⭐ **Current Project:** [FPS Chat](https://github.com/wyattgill9/fps_chat)
 - ⚡ **Interests:** **High-performance computing, networking, and compilers**
 
----
 
 ## 🛠️ Favorite Tech
 Tools, languages, and technologies I love working with.
