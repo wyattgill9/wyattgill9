@@ -3,11 +3,12 @@
 
 ---
 
-## 🔥 Stats & Activity
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
     <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
 </picture>
+
+## 🔥 Stats & Activity
 
 - 📂 **[Dotfiles](https://github.com/wyattgill9/dotfiles)**
 - ⭐ **Current Project:** [FPS Chat](https://github.com/wyattgill9/fps_chat)
