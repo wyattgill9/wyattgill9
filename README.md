@@ -1,5 +1,5 @@
 # 🚀 Wyatt Gill
-💡 15-year-old high school student passionate about **Low-Level Programming**, **DevOps**, and **Distributed Systems**.
+💡Student passionate about **Low-Level Programming**, **DevOps**, and **Distributed Systems**.
 
 ---
 
