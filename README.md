@@ -59,6 +59,9 @@ Tools, languages, and technologies I love working with.
   </tr>
 </table>
 
+## 📝 Papers I like
+- **[Interaction Combinators](https://core.ac.uk/download/pdf/81113716.pdf) - Yves Lafont**
+
 
 ---
 
