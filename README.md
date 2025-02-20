@@ -11,7 +11,7 @@
 ## 🔥 Stats & Activity
 
 - 📂 **[Dotfiles](https://github.com/wyattgill9/dotfiles)** (Arch btw)
-- ⭐ **Current Project:** [FPS Chat](https://github.com/wyattgill9/fps_chat)
+- ⭐ **Current Project:** [Mediasured](https://www.mediasured.com/)
 - ⚡ **Interests:** **High-performance computing, networking, and compilers**
 
 
