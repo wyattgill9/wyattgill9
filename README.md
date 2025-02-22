@@ -61,7 +61,7 @@ Tools, languages, and technologies I love working with.
 
 ## 📝 Papers I like
 - **[Interaction Combinators](https://core.ac.uk/download/pdf/81113716.pdf) - Yves Lafont**
-
+- **[In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) - Diego Ongaro and John Ousterhout**
 
 ---
 
