@@ -11,7 +11,7 @@
 ## 🔥 Stats & Activity
 
 - 📂 **[Dotfiles](https://github.com/wyattgill9/dotfiles)** (Arch btw)
-- ⭐ **Current Project:** [Mediasured](https://www.mediasured.com/)
+- ⭐ **Current Project:** 
 - ⚡ **Interests:** **High-performance computing, networking, and compilers**
 
 
