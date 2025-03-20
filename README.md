@@ -2,30 +2,14 @@
 
 💡 Student passionate about **Low-Level Programming**, **DevOps**, & **HPC**.
 
----
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
-    <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
-</picture>
+    <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true">
+</picture》
 
 
-
-## 🔥 Stats & Activity
-
-
-
-- 📂 **[Dotfiles](https://github.com/wyattgill9/dotfiles)** (Arch btw)
-
-- ⚡ **Interests:** **HPC, Optimization, and FP**
-
-
-
-
-
-## 🛠️ Favorite Tech
-
-Tools, languages, and technologies I love working with.
+## 
 
 
 
