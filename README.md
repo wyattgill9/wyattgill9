@@ -9,6 +9,7 @@
 
 ### Favorite Papers
 - [Interaction Combinators](https://core.ac.uk/download/pdf/81113716.pdf) - Yves Lafont
+- [On Computable Numbers, with an Application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) - Alan Turing
 - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) - Ongaro & Ousterhout
 
 ### Connect
