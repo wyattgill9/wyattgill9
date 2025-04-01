@@ -7,8 +7,6 @@
 ### Languages & Technologies
 `Rust` `C` `Python` `TypeScript` `Linux` `Git` `GithubCI` `Docker` `Kubernetes`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/wyattgill9/github-readme-stats)
-
 ### Favorite Papers
 - [Interaction Combinators](https://core.ac.uk/download/pdf/81113716.pdf) - Yves Lafont
 - [A Next-Generation Smart Contract & Decentralized Application Platform](https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) - Ethereum whitep aper
