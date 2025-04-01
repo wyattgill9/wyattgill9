@@ -7,6 +7,7 @@
 ### Languages & Technologies
 `Rust` `C` `Python` `TypeScript` `Linux` `Git` `GithubCI` `Docker` `Kubernetes`
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/wyattgill9/github-readme-stats)
 
 ### Favorite Papers
 - [Interaction Combinators](https://core.ac.uk/download/pdf/81113716.pdf) - Yves Lafont
