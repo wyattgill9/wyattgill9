@@ -1,11 +1,12 @@
 # Wyatt Gill
 
-> Low-Level Programming | DevOps | HPC
+> Low-Level Programming | SIMD | HPC
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true)
 
-### Technologies
-`Rust` `C` `Python` `TypeScript` `Linux` `Git` `GithubCI` `Docker` `Kubernetes` learning `functional programming`
+### Languages & Technologies
+`Rust` `C` `Python` `TypeScript` `Linux` `Git` `GithubCI` `Docker` `Kubernetes`
+
 
 ### Favorite Papers
 - [Interaction Combinators](https://core.ac.uk/download/pdf/81113716.pdf) - Yves Lafont
