@@ -10,9 +10,9 @@
 
 ### Favorite Papers
 - [Interaction Combinators](https://core.ac.uk/download/pdf/81113716.pdf) - Yves Lafont
-- [On Computable Numbers, with an Application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) - Alan Turing
+- [A Next-Generation Smart Contract & Decentralized Application Platform](https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) - Ethereum white-paper
 - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) - Ongaro & Ousterhout
-
+ 
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/wyatt-gill-17380b323/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://portfolio-website-9asx-wyatt-gills-projects.vercel.app/)
