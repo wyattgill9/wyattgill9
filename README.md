@@ -1,5 +1,7 @@
 # Wyatt Gill
 
+![intro](https://github.com/user-attachments/assets/047f1da7-b826-4779-96c3-460235780171)
+
  > Low-Level Programming | HPC | λx.x
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true)
