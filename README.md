@@ -10,6 +10,9 @@
 ### Languages & Technologies
 `Rust` `C` `Python` `TypeScript` `Linux` `Git` `GithubCI` `Docker` `Kubernetes`
 
+### Projects:
+[![Scc Count Badge](https://sloc.xyz/github/HigherOrderCO/HVM3-Strict/)](https://github.com/boyter/scc/) [![Scc Count Badge](https://sloc.xyz/github/wyattgill9/rafka/)](https://github.com/boyter/scc/) [![Scc Count Badge](https://sloc.xyz/github/wyattgill9/IMAP/)](https://github.com/boyter/scc/)
+
 ### Favorite Papers
 - [Interaction Combinators](https://core.ac.uk/download/pdf/81113716.pdf) - Yves Lafont
 - [A Next-Generation Smart Contract & Decentralized Application Platform](https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) - Ethereum whitepaper
