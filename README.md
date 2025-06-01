@@ -12,7 +12,7 @@
 
 ### Favorite Papers
 - [Interaction Combinators](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/science/article/pii/S0890540197926432/pdf%3Fmd5%3D30965cec6dd7605a865bbec4076f65e4%26pid%3D1-s2.0-S0890540197926432-main.pdf&ved=2ahUKEwiKiLLnzsKNAxVtkO4BHeEUL-cQFnoECAoQAQ&usg=AOvVaw0yzy07VkWVoJu4XSqaOqj3) - Yves Lafont
-- [A Next-Generation Smart Contract & Decentralized Application Platform](https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) - Ethereum whitepaper
+- [A Next-Generation Smart Contract & Decentralized Application Platform](https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) - Vitalik Buterin
 - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) - Ongaro & Ousterhout
  
 ### Connect
