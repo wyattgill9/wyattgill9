@@ -16,7 +16,6 @@
 - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) - Ongaro & Ousterhout
  
 ### Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/wyatt-gill-17380b323/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord)](https://discord.gg/wDNT2d4Zea)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:wyattgill01@outlook.com)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://portfolio-website-9asx-wyatt-gills-projects.vercel.app/) -->
