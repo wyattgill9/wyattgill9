@@ -2,13 +2,10 @@
 
 > Low-Level Programming | HPC | λx.x
 
-<!-- ![intro](https://github.com/user-attachments/assets/047f1da7-b826-4779-96c3-460235780171) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyattgill9&theme=tokyonight&hide_border=true&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wyattgill9&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true)
+![intro](https://github.com/user-attachments/assets/047f1da7-b826-4779-96c3-460235780171)
 
 ### Languages & Technologies
- `C++` `Rust`  `Python` `Nix` `Linux` `Git`
+ `Rust` `C++` `Nix` `Linux` `Git`
 
 ### Favorite Papers
 - [An Unsolvable Problem of Elementary Number Theory](https://ics.uci.edu/~lopes/teaching/inf212W12/readings/church.pdf) - Alonzo Church
