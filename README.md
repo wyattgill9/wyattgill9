@@ -5,7 +5,7 @@
 ![intro](https://github.com/user-attachments/assets/047f1da7-b826-4779-96c3-460235780171)
 
 ### Languages & Technologies
- `Rust` `C++` `Nix` `Linux` `Git`
+ `Rust` `C++` `Nix` `Haskell` `Linux` `Git`
 
 ### Favorite Papers
 - [An Unsolvable Problem of Elementary Number Theory](https://ics.uci.edu/~lopes/teaching/inf212W12/readings/church.pdf) - Alonzo Church
