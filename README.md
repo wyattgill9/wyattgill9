@@ -2,8 +2,6 @@
 
 > Low-Level Programming | HPC | λx.x
 
-![intro](https://github.com/user-attachments/assets/047f1da7-b826-4779-96c3-460235780171)
-
 ### Languages & Technologies
  `Rust` `C++` `Nix` `Haskell` `Linux` `Git`
 
