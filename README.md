@@ -3,7 +3,7 @@
 > Low-Level Programming | HPC | λx.x
 
 ### Languages & Technologies
- `Rust` `C++` `Nix` `Haskell` `Linux` `Git`
+ `Rust` `Nix` `C++` `Haskell` `Lean` `Linux` `Git`
 
 ### Favorite Papers
 - [An Unsolvable Problem of Elementary Number Theory](https://ics.uci.edu/~lopes/teaching/inf212W12/readings/church.pdf) - Alonzo Church
